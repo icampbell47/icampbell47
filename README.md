@@ -17,7 +17,7 @@ A 99-member Georgia Tech fraternity used it during rush in place of legacy recru
 ## What I'm working on
 
 - **Undergraduate researcher, Autonomous Systems & RL (Georgia Tech):** a recurrent PPO drone-navigation policy (PyTorch, CNN+GRU) for partially observable wildfire environments, plus a thermal-aware hybrid A* planner with a reproducible benchmarking harness.
-- **Software engineering consultant, Poetic:** an LLM scoring pipeline, and turning a prototype notebook into a tested Python package with CI.
+- **Software engineering consultant, Poetic:** an LLM scoring pipeline, and turning multiple prototype notebooks into a tested Python package with CI.
 
 ## Previously
 
